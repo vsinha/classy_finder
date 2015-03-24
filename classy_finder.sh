@@ -11,7 +11,7 @@ sudo cp ${SCRIPT_DIR}/finder@2x.png /System/Library/CoreServices/Dock.app/Conten
 sudo cp ${SCRIPT_DIR}/finder@2x.png /System/Library/CoreServices/Dock.app/Contents/Resources/finder.png
 
 # trash the iconcache, forcing the dock to rebuild it
-sudo rm -f `sudo find /private/var/folders -name com.apple.dock.iconcache`
+sudo rm -f `find /private/var/folders -name com.apple.dock.iconcache 2> /dev/null`
 
 # restart the dock
 sudo killall Dock
