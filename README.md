@@ -8,12 +8,15 @@
 Replace your default OSX finder logo with something way more classy
 
 ###To use, do the following:
-```
+
+####Be sure to enter your sudo password when prompted!
+
+```sh
 git clone https://github.com/vsinha/classy_finder.git
 cd classy_finder
 ./classy_finder.sh
 ```
-Be sure to enter your sudo password when prompted!
+####It may take a moment for the dock to come back up, don't panic!!
 
 ###To reset back to the default finder logo:
 Run `./reset_classy_finder.sh` (again from inside the classy_finder repository.
