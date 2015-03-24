@@ -1,6 +1,6 @@
 # Classy Finder Logo
 
-![alt tag](https://raw.github.com/vsinha/classy_finder/master/finder@2x.png =250x)
+<img src="https://raw.github.com/vsinha/classy_finder/master/finder@2x.png" width="200" height="200"\>
 
 
 > "We soldier on undaunted, you and I, Master Bruce. And if I may say so, sir... I couldn't beg, borrow or steal a finer way to live my life." - Alfred Pennyworth
