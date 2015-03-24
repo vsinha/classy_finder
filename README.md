@@ -1,6 +1,6 @@
 # Classy Finder Logo
 
-![alt tag](https://raw.github.com/vsinha/classy_finder/master/finder@2x.png)
+![alt tag](https://raw.github.com/vsinha/classy_finder/master/finder@2x.png =250x)
 
 
 > "We soldier on undaunted, you and I, Master Bruce. And if I may say so, sir... I couldn't beg, borrow or steal a finer way to live my life." - Alfred Pennyworth
@@ -16,4 +16,4 @@ cd classy_finder
 Be sure to enter your sudo password when prompted!
 
 ###To reset back to the default finder logo:
-Run `./reset_classy_finder.hs` (again from inside the classy_finder repository.
+Run `./reset_classy_finder.sh` (again from inside the classy_finder repository.
