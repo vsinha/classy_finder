@@ -1,5 +1,8 @@
 # Classy Finder Logo
 
+![alt tag](https://raw.github.com/vsinha/classy_finder/master/finder@2x.png)
+
+
 > "We soldier on undaunted, you and I, Master Bruce. And if I may say so, sir... I couldn't beg, borrow or steal a finer way to live my life." - Alfred Pennyworth
 
 Replace your default OSX finder logo with something way more classy
